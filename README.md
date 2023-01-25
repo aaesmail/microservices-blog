@@ -1,6 +1,6 @@
 # Microservices Blog
 
-A Microservies based architecture using Nodejs to create an application where all services has its own database and they replicate data for high availability using event bus that I built using Express
+A Microservices based architecture using Nodejs to create an application where all services has its own database and they replicate data for high availability using event bus that I built using Express
 
 The cluster uses an Ingress Nginx Object to route all data to its respective service
 
