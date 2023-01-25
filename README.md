@@ -13,7 +13,6 @@ A query service where the user can submit queries to get complex data about the 
 Technologies:
 - Kubernetes
 - Docker
-- Docker Compose
 - Redis
 - Express
 - Nodejs
